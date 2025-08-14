@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js 15, TypeScript, Tailwind CSS
+- **Frontend**: Next.js 15, TypeScript, Tailwind CSS, Shadcn UI
 - **Backend**: Firebase Firestore
 - **Authentication**: Firebase Auth (Google OAuth)
 - **AI Integration**: Google Gemini API
